@@ -6,7 +6,7 @@ This is a simple and elegant webpage showcasing my social profiles and portfolio
 
 Check out the live preview.
 ~~~
-https://nikhilsn71.github.io/Social-Profile-Links/
+https://nikhilsn71.online/
 ~~~
 
 ## Technologies Used
